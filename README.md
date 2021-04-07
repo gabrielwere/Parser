@@ -45,15 +45,15 @@ Brackets () are used in the notation instead of angle brackets <>
 
 <h3>Sample program<h3>
  
- #include stdio.h
- main(){
- int x=0
+ #include stdio.h<br>
+ main(){<br>
+ int x=0<br>
  
- while(x<=10){
- puts(x)
- x=x+1
- }
- }
+ while(x<=10){<br>
+ puts(x)<br>
+ x=x+1<br>
+ }<br>
+ }<br>
  
 
  
