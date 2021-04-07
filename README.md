@@ -3,8 +3,8 @@ The program demonstrates the lexical analysis and syntax analysis phase of compi
 The mini-grammar is represented by the BNF grammar shown below.
 
 <h3>BNF grammar<h3>
- <p>
-   '<program>' :: = <include><main><br>
+
+ <program> :: = <include><main><br>
 
 <include> ::= #include<header-file><br>
 
@@ -42,4 +42,4 @@ The mini-grammar is represented by the BNF grammar shown below.
 
 <relational-operator> ::= < | <= | == | > | >= | != | !<br>
 
-  <p>
+ 
