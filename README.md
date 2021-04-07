@@ -6,7 +6,7 @@ The mini-grammar is represented by the BNF grammar shown below.
  <p>
    <program> :: = <include><main><br>
 
-<include> ::= # include<header-file><br>
+<include> ::= #include<header-file><br>
 
 <header-file> ::= stdio.h | stdlib.h<br>
 
