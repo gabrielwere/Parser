@@ -1,7 +1,8 @@
 # Parser
 The program demonstrates the lexical analysis and syntax analysis phase of compiler construction.<br>
-The mini-grammar is represented by the BNF grammar shown below.
-Brackets () are used in the notation instead of angle brackets <> 
+The mini-grammar is represented by the BNF grammar shown below.<br>
+Brackets () are used in the notation instead of angle brackets <> <br>
+The program requires installation of the nltk(Natural Language Toolkit) library.
 
 <h3>BNF grammar<h3>
 
