@@ -1,6 +1,7 @@
 # Parser
 The program demonstrates the lexical analysis and syntax analysis phase of compiler construction.<br>
 The mini-grammar is represented by the BNF grammar shown below.
+Brackets () are used in the notation instead of angle brackets <> 
 
 <h3>BNF grammar<h3>
 
@@ -41,5 +42,18 @@ The mini-grammar is represented by the BNF grammar shown below.
 (arithmetic-operator) ::= + | - | * | / | %<br>
 
 (relational-operator) ::= < | <= | == | > | >= | != | !<br>
+
+<h3>Sample program<h3>
+ 
+ #include stdio.h
+ main(){
+ int x=0
+ 
+ while(x<=10){
+ puts(x)
+ x=x+1
+ }
+ }
+ 
 
  
